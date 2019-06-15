@@ -1,5 +1,5 @@
 # irisflowers
-This project uses the classic iris dataset - considered the "Hello World" of machine learning - to build a simple machine learning pipeline. The goal is to classify the flowers into one of three iris species, based on the length and width of their petals and sepals.
+This project uses the classic [iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) - considered the "Hello World" of machine learning - to build a simple machine learning pipeline. The goal is to classify the flowers into one of three iris species, based on the length and width of their petals and sepals.
 
 Using the python library [scikit-learn](https://scikit-learn.org/stable/index.html), multiple machine learning algorithms are evaluated, with the best-performing one selected.
 
@@ -22,7 +22,7 @@ This dataset contains three classes of 50 instances each, where each class refer
 ## Built with
 - [Jupyter Notebook](https://jupyter.org/) to run python code and display results
 - [scikit-learn](https://scikit-learn.org/stable/index.html) python library for machine learning tools
-- [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/)python libraries for plotting and data visualisation
+- [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) python libraries for plotting and data visualisation
 - [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/index.html) for interactive sliders embedded in Jupyter Notebook 
 
 ## References
